@@ -6,7 +6,7 @@ A sleek and minimalistic calculator built using HTML, CSS, and JavaScript. Perfo
 
 ## 🔗 Live Demo
 
-[👉 Click here to try the live calculator]()  
+[👉 Click here to try the live calculator](https://rakesh12531.github.io/calculator-project/)  
 
 ---
 
